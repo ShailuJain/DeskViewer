@@ -17,7 +17,6 @@ import java.awt.image.BufferedImage;
 import java.io.IOException;
 import javax.swing.JOptionPane;
 import javax.swing.Timer;
-import utils.ProcessContent;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

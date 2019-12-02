@@ -3,7 +3,6 @@ package client;
 import client.ReceiveContent;
 import client.SendContent;
 import client.SharingCaller;
-import com.sun.xml.internal.ws.wsdl.writer.document.Message;
 import commons.Content;
 import commons.ContentType;
 import utils.ClipboardHandler;
